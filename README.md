@@ -3,6 +3,7 @@
 The dataset is of an imaginary shop "Vrinda Store". From the given dataset the report appears like :
 
 ![Screenshot (177)](https://github.com/DebopriyoSarkar97/Vrinda-Store-Data-Analysis/assets/107385671/4861ff3d-e369-4746-b733-14dff0bf9de3)
+
 Insights:
 1. Most sales took place in march.
 2. Women do most of the buying. (Women are most likely to buy compared to men(65%))
